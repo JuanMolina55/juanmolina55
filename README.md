@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmolina55&label=Profile%20views&color=0e75b6&style=plastic" alt="juanmolina55" /> </p>
 
-- 🌱 I’m currently learning **f**
+- 🌱 I’m currently learning
 
-- 👨‍💻 I’m currently study **df**
+- 👨‍💻 I’m currently study
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
