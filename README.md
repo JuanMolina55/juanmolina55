@@ -14,12 +14,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmolina55&show_icons=true&locale=en" alt="juanmolina55" /></p>
 
 <p alinear = "centro">
-<img src="https://github-readme-stats.vercel.app/api?username=hulkike&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=stars&line_height=25"/>
+<img src="https://github-readme-stats.vercel.app/api?username=juanmolina55&show_icons=true&theme=dracula&count_private=true&hide_title=true&hide=stars&line_height=25"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulkike&layout=compact&hide=javascript,html,ruby&hide_title=true&theme=dracula&card_width=250"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmolina55&layout=compact&hide=javascript,html,ruby&hide_title=true&theme=dracula&card_width=250"/>
 </p>
 
 <p align="centro">
   Recuento de visitantes<br>
-  <img src="https://profile-counter.glitch.me/hulkike/count.svg" />
+  <img src="https://profile-counter.glitch.me/juanmolina55/count.svg" />
 </p>
