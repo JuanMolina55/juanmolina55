@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juan_mollina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juan_mollina" height="30" width="40" /></a>
+<a href="https://x.com/juan_mollina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juan_mollina" height="30" width="40" /></a>
 <a href="https://instagram.com/_jdmolina_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jdmolina_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@juandavidmolina6395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juandavidmolina6395" height="30" width="40" /></a>
 </p>
